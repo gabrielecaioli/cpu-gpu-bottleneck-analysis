@@ -1,0 +1,3010 @@
+{
+      "workload_index": 1,
+      "num_nodes": 36840,
+      "num_to_search": 100000,
+      "thread_count_min": 1,
+      "thread_count_max": 24,
+      "seeds": 30,
+      "threads": [
+            {
+                  "num_threads": 1,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.0914482000002863
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.07199600000012651
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.06671510000023773
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.061067999999977474
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.061864000000241504
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.05992849999984173
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.060635699999693315
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.0620189000001119
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.07166890000007697
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.06274159999975382
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.06243929999982356
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.06063290000020061
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.06197210000027553
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.06673040000032415
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.06006959999967876
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.06091280000009647
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.06358580000005531
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.062427300000308605
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.060718400000041584
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.059209200000168494
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.05988040000011097
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.06042070000012245
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.059881099999984144
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.06179569999994783
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.06928350000043793
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.059410599999864644
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.05991910000011558
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.06047050000006493
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.06229910000001837
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.060576400000172725
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 2,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06088420000014594
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.05701980000003459
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.0540037000000666
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.0577939999998307
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.05636950000007346
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.06041400000003705
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.051643499999954656
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.05251600000019607
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.053998000000319735
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.05698220000022047
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04776079999965077
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04892440000003262
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.04778530000021419
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.0517480000003161
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.05001170000014099
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04884799999990719
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04550789999984772
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.046354499999779364
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.046324899999945046
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.048469700000168814
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04901319999999032
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04723740000008547
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04824499999995169
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.049907599999642116
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.0490724000001137
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.04685109999991255
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.04596660000015618
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.04799039999988963
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04840090000016062
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.04588309999962803
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 3,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06589510000003429
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.04286480000018855
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.042749799999910465
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.041157099999963975
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.043355000000246946
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04557089999980235
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04373089999990043
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.04209260000016002
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.041602100000091013
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.04278699999986202
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04301209999994171
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04215539999995599
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.04207049999968149
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.04174809999994977
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.042623700000149256
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.042693899999903806
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04205709999996543
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.04197059999978592
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.04148690000010902
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.04141300000037518
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04255109999985507
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04237649999959103
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04271610000023429
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.043262700000013865
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04099659999974392
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.04232099999990169
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.04222170000002734
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.042806299999938346
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04180129999986093
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.04142649999994319
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 4,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.07580329999973401
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.040813900000102876
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.0401452999999492
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.04118620000008377
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04136100000005172
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04369120000001203
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04205009999986942
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.039561699999921984
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.04084809999994832
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.04163890000018
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.040558600000167644
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04137459999992643
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.04095500000039465
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.04075920000013866
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.04060720000006768
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04162300000007235
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.041141199999856326
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.04178300000012314
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.04099790000009307
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.04142039999987901
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04152090000025055
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04066850000026534
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04003670000020065
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.04048929999999018
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.0419448999996348
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.0396589000001768
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.04135120000000825
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.040942699999959586
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.040183600000091246
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.04077050000023519
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 5,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.09011319999990519
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.06225320000021384
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.04232080000019778
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03682119999984934
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04018029999997452
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04508540000006178
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.03964410000025964
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.038097600000128296
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03788239999994403
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.040077000000110274
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04058749999967404
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.037946500000089145
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03936820000035368
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03892400000040652
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.038930100000015955
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04026389999989988
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.03903579999996509
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03941759999997885
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03829119999954855
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03884150000021691
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.039948200000253564
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04147069999999076
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04010259999995469
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.040258600000015576
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.038308499999857304
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03905739999981961
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.038394200000311685
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.04036379999979545
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04047679999985121
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03868369999963761
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 6,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.05526090000012118
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.037873100000069826
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03937869999981558
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.0386622000000898
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04032390000020314
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04159859999981563
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04354430000012144
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.03855410000005577
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03972429999976157
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03869779999968159
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04079879999972036
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03957880000007208
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03797210000038831
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03895660000034695
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03867779999973209
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.037545700000009674
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.040123700000094686
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.040040700000190554
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03795720000016445
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03867199999967852
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03849319999972067
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.03783590000011827
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.043318099999851256
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03942009999991569
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.03871600000002218
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.040249000000130764
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03901380000024801
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03925359999993816
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.03789649999998801
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03835590000016964
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 7,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06016810000028272
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.039681300000211195
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.039454899999782356
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.04049989999975878
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.03926409999985481
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04014199999983248
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.040057899999737856
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.04161419999991267
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03878440000016781
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.039237299999967945
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.05505419999963124
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03969250000000102
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03881050000018149
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03866189999962444
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.039106400000036956
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03974859999971159
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.03860639999993509
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03736220000018875
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03830079999988811
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.039707999999791355
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03757629999972778
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.036754499999915424
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04085750000012922
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03759559999980411
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.03830459999971936
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.04012699999975666
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03777109999964523
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03829679999989821
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04036020000012286
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.038683900000251015
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 8,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06015469999965717
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.04034049999972922
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03819610000027751
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03808409999965079
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.03731160000006639
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04251199999998789
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.038956599999892205
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.037779499999942345
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03842979999990348
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.039565500000207976
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.03894209999998566
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03756680000014967
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03896779999968203
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.036693600000035076
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03662850000000617
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03815889999987121
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.036879100000078324
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03851149999991321
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.036182800000005955
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03741689999969822
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03988610000033077
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.03764279999995779
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.038800000000264845
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03820429999996122
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.03702819999989515
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03722809999999299
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03861350000033781
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03794610000022658
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.037728100000094855
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03833420000000842
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 9,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.0645620999998755
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.04111539999985325
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.037061699999867415
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03970960000015111
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04042780000008861
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.0438282000000072
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.03803560000005746
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.039898400000311085
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.039753600000040024
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03930590000027223
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.043033200000081706
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03814409999995405
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.037034200000107376
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.039441700000224955
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.040041699999619595
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03758160000006683
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04089169999997466
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03883399999995163
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.04055079999989175
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.04097909999973126
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.039446099999622675
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.040138699999715755
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04007569999976113
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03858590000027107
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04014230000029784
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03774019999991651
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03966739999987112
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.04117439999981798
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04107480000038777
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.04063709999991261
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 10,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.05688800000007177
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.038933799999995244
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03973450000012235
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03980109999974957
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04116329999988011
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.043785899999875255
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.040336000000024796
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.08695420000003651
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.042885500000011234
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.0390929000000142
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.03717640000013489
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03756380000004356
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03741249999984575
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03848809999999503
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.040116499999840016
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.039193400000385736
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.03993450000007215
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.04036919999998645
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.039697399999568006
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.04040029999987382
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.039737999999942986
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04184639999994033
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.038412399999742775
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.038991400000213616
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04019890000017767
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03834950000009485
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.04010280000011335
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03837419999990743
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.039088600000013685
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03914950000034878
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 11,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.068435899999713
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.03902369999968869
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.039203100000122504
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.04073699999980818
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.03960619999998016
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04331499999989319
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.039984800000183895
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.040629399999943416
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.0382870999997067
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03697360000023764
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04201340000008713
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04211519999989832
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03932130000021061
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03936969999995199
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.039799499999844556
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03882370000019364
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.0407457000001159
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.0405706999999893
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03875560000005862
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.040487600000233215
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03826759999992646
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.03870500000039101
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.040915700000368815
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.041118599999663275
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04213160000017524
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.04414150000002337
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.04590790000020206
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.041552600000159146
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04402939999999944
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.04284280000001672
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 12,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.04114879999997356
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.04170800000019881
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.04435749999993277
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.041351899999881425
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04166960000020481
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04278589999967153
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.042887599999630766
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.042098299999906885
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.041686200000185636
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.04540030000043771
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04188040000008186
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04741020000028584
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.039096100000278966
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03737890000002153
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03896290000011504
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.040439100000185135
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.03779020000001765
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.041032300000097166
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.041357800000241696
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.04543729999977586
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04298819999985426
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04484570000022359
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.05458820000012565
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.053122399999665504
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.048934599999938655
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03694210000003295
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03843559999995705
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.04025730000012118
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.03989530000035302
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03944709999996121
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 13,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06578799999988405
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.04063880000012432
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.042878900000232534
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03988379999964309
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.042849300000398216
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.048067100000025675
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04145340000013675
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.04095140000026731
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.04144709999991392
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.041103300000031595
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.041606400000091526
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.040448599999763246
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.04107669999984864
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.040175799999815354
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.042146799999954965
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04009490000044025
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.043346399999791174
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.04163070000004154
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.040097699999932956
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03972849999991013
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.045880299999680574
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.042546300000140036
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04098329999987982
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.04212969999980487
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04216630000018995
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03947119999975257
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.040759500000149274
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.040965700000015204
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.040945100000044476
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.038087200000063604
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 14,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06946070000003601
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.039862300000095274
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03844200000003184
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03976009999996677
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.03875990000005913
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04570190000004004
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.039181099999950675
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.03993609999997716
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03938960000004954
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03797240000039892
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.039727899999888905
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.0410464999999931
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03683790000013687
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03744849999975486
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.039400299999670096
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.037645599999905244
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04049220000024434
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03725819999999658
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03744479999977557
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03818830000000162
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.036613799999940966
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.038519499999893014
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.03924829999959911
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.04036160000032396
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.03924509999978909
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03757190000033006
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.041188099999999395
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03972909999993135
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04041129999995974
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.0397806999999375
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 15,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06795990000000529
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.03801919999978054
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03840680000030261
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.037982499999998254
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.037988600000062434
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.0443529999997736
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.03919689999975162
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.03943970000000263
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03827140000021245
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.039236499999788066
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.03989159999991898
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.038443200000074285
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03763370000024224
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03858519999994314
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03681419999975333
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04073300000027302
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04148619999978109
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.0375226000001021
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.038066600000092876
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.040147300000171526
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03684419999990496
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.038712999999916065
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04044590000012249
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.038148200000250654
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.0373541999997542
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03928940000014336
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03736400000025242
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03836989999990692
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.04115540000020701
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03769740000007005
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 16,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.05894290000014735
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.03968669999994745
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03854009999986374
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.040600300000278366
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.03794969999989917
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04490800000030504
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.03947130000005927
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.04154370000014751
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03908240000009755
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.040359000000080414
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04178359999968961
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03964479999967807
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03918370000019422
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.0388041000001067
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03884960000004867
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.041920199999822216
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.039579199999934644
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.04108540000015637
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03909490000023652
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03869329999997717
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04070320000028005
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.038419900000008056
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.041958599999816215
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03829010000026756
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.039464200000111305
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.04143359999989116
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.039146399999935966
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.040559399999892776
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.039035599999806436
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.0378221000000849
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 17,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.061702299999979004
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.039917399999922054
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03893239999979414
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.038431999999829713
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.0420734999997876
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04543519999970158
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.039595899999767425
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.041782899999816436
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03968140000006315
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03942770000003293
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.039976000000024214
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04063480000013442
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.0397410000000491
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03812920000018494
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.04106069999988904
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03930820000005042
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04126499999983935
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.0410397999999077
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03831660000014381
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.04070300000012139
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04070090000004711
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.03892360000008921
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04180769999993572
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03980430000001434
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04042960000015228
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.04012830000010581
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03789259999985006
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03981099999964499
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.040781499999866355
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.038990000000012515
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 18,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06616110000004483
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.039363999999750376
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.038416200000028766
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.040977099999963684
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04008539999995264
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.046771699999681005
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04211850000001505
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.04094089999989592
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.04015170000002399
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.039804800000183604
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04280179999977918
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04057839999995849
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.039512899999863293
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.04116470000008121
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.04035089999979391
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04067979999990712
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.041000399999575166
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03786009999976159
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03970300000037241
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03898010000011709
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04064509999989241
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.041653499999938504
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04109580000022106
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.04163369999969291
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04055979999975534
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03986620000023322
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.039810599999782426
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.040723999999954685
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.03962599999977101
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03811709999990853
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 19,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06871129999990444
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.03998989999990954
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.0381612999999561
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03948979999995572
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.040785199999845645
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.0457658000000265
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.039642300000195974
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.040795800000068994
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03940820000025269
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03890469999987545
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04109860000016852
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.03850499999998647
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03860380000014629
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.039294799999879615
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03749290000041583
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.0403876999998829
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04019539999990229
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03901219999988825
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.039279500000247936
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.039013799999793264
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03843929999993634
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.038187500000276486
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.03985770000008415
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.09008080000012342
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.038354400000116584
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.037150199999814504
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03862570000001142
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.04071550000026036
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.03976909999983036
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03781590000016877
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 20,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06782010000006267
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.03971749999982421
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.039712600000257225
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.039445099999738886
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.039108200000100624
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.0471704999999929
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04043359999968743
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.039074799999980314
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03943309999976918
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03962700000010955
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.041153099999974074
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.038584200000059354
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.0399280000001454
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03825509999978749
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03827850000016042
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04053590000012264
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04079520000004777
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03897959999994782
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.042598699999871315
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.038041899999825546
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.039020000000164146
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.038682299999891256
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.039924100000007456
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.04115980000005948
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.038075799999660376
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.038607299999966926
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.040307599999778176
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.038666899999952875
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.03975899999977628
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.039215600000261475
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 21,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.0740273999999772
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.03970320000007632
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03885089999994307
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.04029899999977715
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04059929999993983
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04425420000006852
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.038371900000129244
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.03961200000003373
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.038853200000176
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03677779999998165
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.03915520000009565
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.040530799999942246
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.04145230000040101
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.039286900000206515
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.038516600000093604
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03883009999981368
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.03934490000028745
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03762899999992442
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03937240000004749
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03724580000016431
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03901769999993121
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.037812600000052043
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.03931760000023132
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03943650000019261
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04012360000024273
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03828270000030898
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.03845920000003389
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.03850540000030378
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.038908900000024005
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.0387166000000434
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 22,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06684390000009444
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.04015590000017255
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03944839999985561
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.038540200000170444
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.040124999999989086
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04179690000000846
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04034289999981411
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.04256690000011076
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.039617899999939254
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.03920430000016495
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.039835499999753665
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04082859999971333
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03933820000020205
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.03844780000008541
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03889710000021296
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.03811790000008841
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.040025100000093516
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03782260000025417
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.03793509999968592
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03946189999987837
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.04177370000024894
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.03915069999993648
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04150710000021718
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.038492000000132975
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.04009309999992183
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.038413499999933265
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.038947900000039226
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.039920599999732076
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.041086100000029546
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.0393076000000292
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 23,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.06130680000023858
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.040947399999822665
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.03928640000003725
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.039813800000047195
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.03952269999990676
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.04321209999989151
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.040788400000110414
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.038772700000208715
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03925340000023425
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.039282599999751255
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.041628899999977875
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.04412049999973533
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.03845890000002328
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.04092639999998937
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.037990499999978056
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04055960000005143
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.04101589999982025
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.03939390000005005
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.039694199999757984
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.038761300000260235
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.039435300000150164
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.04068349999988641
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.04180689999975584
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.041507300000375835
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.03928429999996297
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03831880000007004
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.038603299999977025
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.038720500000181346
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.039713099999971746
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.03855119999980161
+                        }
+                  ]
+            },
+            {
+                  "num_threads": 24,
+                  "runs": [
+                        {
+                              "seed_index": 0,
+                              "execution_time": 0.07235710000031759
+                        },
+                        {
+                              "seed_index": 1,
+                              "execution_time": 0.039254499999969994
+                        },
+                        {
+                              "seed_index": 2,
+                              "execution_time": 0.04063349999978527
+                        },
+                        {
+                              "seed_index": 3,
+                              "execution_time": 0.03929250000010143
+                        },
+                        {
+                              "seed_index": 4,
+                              "execution_time": 0.04057439999996859
+                        },
+                        {
+                              "seed_index": 5,
+                              "execution_time": 0.0475151000000551
+                        },
+                        {
+                              "seed_index": 6,
+                              "execution_time": 0.04143920000024082
+                        },
+                        {
+                              "seed_index": 7,
+                              "execution_time": 0.03892959999984669
+                        },
+                        {
+                              "seed_index": 8,
+                              "execution_time": 0.03983859999971173
+                        },
+                        {
+                              "seed_index": 9,
+                              "execution_time": 0.042486899999858
+                        },
+                        {
+                              "seed_index": 10,
+                              "execution_time": 0.04075909999983196
+                        },
+                        {
+                              "seed_index": 11,
+                              "execution_time": 0.040136900000106834
+                        },
+                        {
+                              "seed_index": 12,
+                              "execution_time": 0.039261200000055396
+                        },
+                        {
+                              "seed_index": 13,
+                              "execution_time": 0.039330600000084814
+                        },
+                        {
+                              "seed_index": 14,
+                              "execution_time": 0.03944339999998192
+                        },
+                        {
+                              "seed_index": 15,
+                              "execution_time": 0.04032420000021375
+                        },
+                        {
+                              "seed_index": 16,
+                              "execution_time": 0.03951779999988503
+                        },
+                        {
+                              "seed_index": 17,
+                              "execution_time": 0.04254720000017187
+                        },
+                        {
+                              "seed_index": 18,
+                              "execution_time": 0.04124150000006921
+                        },
+                        {
+                              "seed_index": 19,
+                              "execution_time": 0.03713530000004539
+                        },
+                        {
+                              "seed_index": 20,
+                              "execution_time": 0.03835590000016964
+                        },
+                        {
+                              "seed_index": 21,
+                              "execution_time": 0.041792699999859906
+                        },
+                        {
+                              "seed_index": 22,
+                              "execution_time": 0.03826470000012705
+                        },
+                        {
+                              "seed_index": 23,
+                              "execution_time": 0.03964089999999487
+                        },
+                        {
+                              "seed_index": 24,
+                              "execution_time": 0.038925100000142265
+                        },
+                        {
+                              "seed_index": 25,
+                              "execution_time": 0.03751199999987875
+                        },
+                        {
+                              "seed_index": 26,
+                              "execution_time": 0.039887000000362605
+                        },
+                        {
+                              "seed_index": 27,
+                              "execution_time": 0.040605800000321324
+                        },
+                        {
+                              "seed_index": 28,
+                              "execution_time": 0.03941980000035983
+                        },
+                        {
+                              "seed_index": 29,
+                              "execution_time": 0.04177209999988918
+                        }
+                  ]
+            }
+      ]
+}

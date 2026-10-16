@@ -1,0 +1,25 @@
+# Build output
+bin/
+build/
+*.o
+*.out
+*.exe
+
+# Profiling reports
+profiling/
+*.nsys-rep
+*.ncu-rep
+*.qdrep
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
